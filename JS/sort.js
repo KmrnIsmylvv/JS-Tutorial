@@ -3,7 +3,7 @@ let people = [ 'Mrs. Robsinson', 'Angie', 'Jolene', 'Maggie May', 'Roxanne' ];
 people.sort();
 // ["Angie", "Jolene", "Maggie May", "Mrs. Robsinson", "Roxanne"]
 
-let nums = [ 34, 10, 100000, 67, 99 ];
+let nums = [ 34, 10, 100000, 67, 99, 55, 14];
 
 nums.sort();
 //[10, 100000, 34, 67, 99]
