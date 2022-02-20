@@ -1,4 +1,4 @@
-let subreddits = [ 'soccer', 'popheads', 'cringe', 'books' ];
+let subreddits = [ 'soccer', 'music' , 'popheads', 'cringe', 'books' ];
 // With a standard for loop
 for (let i = 0; i < subreddits.length; i++) {
 	console.log(subreddits[i]);
